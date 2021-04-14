@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/PowerJob/PowerJob/actions"><img src="https://github.com/PowerJob/PowerJob/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master" alt="actions"></a>
-<a href="https://search.maven.org/search?q=com.github.kfcfans"><img alt="Maven Central" src="https://img.shields.io/maven-central/v/com.github.kfcfans/powerjob-worker"></a>
+<a href="https://search.maven.org/search?q=tech.powerjob"><img alt="Maven Central" src="https://img.shields.io/maven-central/v/tech.powerjob/powerjob-worker"></a>
 <a href="https://github.com/PowerJob/PowerJob/releases"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/kfcfans/powerjob?color=%23E59866"></a>
 <a href="https://github.com/PowerJob/PowerJob/blob/master/LICENSE"><img src="https://img.shields.io/github/license/KFCFans/PowerJob" alt="LICENSE"></a>
 </p>
@@ -70,4 +70,4 @@ PowerJob 的设计目标为企业级的分布式任务调度平台，即成为�
 * 欢迎共同参与本项目的贡献，PR和Issue都大大滴欢迎（求求了）～
 * 觉得还不错的话，可以点个Star支持一下哦～ =￣ω￣=
 * 联系方式@KFCFans -> `tengjiqi@gmail.com`
-* 用户交流QQ群：487453839
+* 用户交流QQ群（因广告信息泛滥，加群需要验证，请认真填写申请原因）：487453839
