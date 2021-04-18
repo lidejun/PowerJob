@@ -8,7 +8,7 @@
 
 
 #APP根目录
-APP_DIR="/appfuruns/powerjob/powerjob-server"
+APP_DIR="/appfuruns/powerjob"
 
 source /etc/rc.d/init.d/functions
 
